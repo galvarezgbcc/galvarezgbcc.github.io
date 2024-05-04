@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang+"en">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <title>CIS224 Project</title>
@@ -9,5 +9,12 @@
 
   <body>
     <h1>CIS224 Project</h1>
+    <form action="Process.php" method="GET">
+        <label for="fullname">Name</label>
+        <input type="text" id="fullname" name="fullname">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email">
+        <input type="submit" value="Send a message">
+    </form>
   </body>
 </html>
