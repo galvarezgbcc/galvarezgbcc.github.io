@@ -1,5 +1,4 @@
 # CIS224-Project
-
-- Final Project for CIS224
-- Website:
-- https://galvarezgbcc.github.io
+<p>Final Project for CIS224</p>
+<p>Website:</p>
+<p>https://galvarezgbcc.github.io</p>
